@@ -56,6 +56,25 @@ The data set contains the following diseases:
 - Verifying the model
 
 
+## Results
+
+
+### Baseline Model
+
+Accuracy and Loss charts for the baseline model
+![Alt text](base.png)
+
+### Augmented Model
+
+Accuracy and Loss charts for the augmented model
+![Alt text](augmented.png)
+
+### Final Model
+
+Accuracy and Loss charts for the final model
+![Alt text](final.png)
+
+
 # Conclusion
 
 As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 89% and a loss of 0.43 The model is able to predict the class of the lesion with a high accuracy.
